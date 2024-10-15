@@ -1,0 +1,59 @@
+# 빌드 폴더
+/build/
+/bin/
+/out/
+
+# CMake 빌드 파일
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio 관련 파일
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.vs/
+*.ncb
+*.suo
+*.user
+*.ipch
+*.pdb
+*.obj
+*.log
+*.tlog
+*.idb
+*.lastbuildstate
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.ilk
+*.rsrc.res
+
+# MacOS 관련 파일
+.DS_Store
+
+# Windows 관련 파일
+Thumbs.db
+desktop.ini
+
+# 임시 파일
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# 기타 바이너리 및 빌드 아티팩트
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.o
+*.out
+*.class
