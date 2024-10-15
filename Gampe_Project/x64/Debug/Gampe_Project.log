@@ -1,0 +1,20 @@
+﻿  console.cpp
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\console.cpp(13,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\console.cpp(13,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\console.cpp(19,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\console.cpp(19,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\console.cpp(25,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\console.cpp(25,23): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Event.cpp
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\Event.cpp(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\Event.cpp(15,15): warning C4244: '=': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\Event.cpp(19,23): warning C4244: '=': 'clock_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameLogic.cpp
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\GameLogic.cpp(9,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\GameLogic.cpp(659,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Main.cpp
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\Main.cpp(6,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\Main.cpp(7,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+D:\02_수업자료\C++\Gampe_Project\Gampe_Project\Main.cpp(8,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  코드를 생성하고 있습니다...
+  Gampe_Project.vcxproj -> D:\02_수업자료\C++\Gampe_Project\x64\Debug\Gampe_Project.exe
